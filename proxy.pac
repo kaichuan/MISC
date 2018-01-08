@@ -1,4 +1,5 @@
 var domains = {
+    "gitbooks.io":1,
     "rawgit.com":1,
 "draculatheme.com":1,
 "android.com":1,
