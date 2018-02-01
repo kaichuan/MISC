@@ -1,4 +1,5 @@
 var domains = {
+"apache.org":1,
 "spring.io":1,
 "gitbooks.io":1,
 "rawgit.com":1,
